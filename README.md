@@ -19,6 +19,7 @@ A fast, async Python script that converts HEIC (High Efficiency Image Container)
 
 - Python 3.12 or higher
 - [uv](https://docs.astral.sh/uv/) package manager
+- On macOS, install libheif: `brew install libheif` 
 
 ### Setup
 
